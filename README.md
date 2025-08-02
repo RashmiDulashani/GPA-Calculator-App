@@ -22,3 +22,8 @@
 - A form with input fields for grades
 - Buttons for calculating GPA, clearing data, and exiting
 - GPA result display
+
+<img src="Image/UI-2.png" style="height: 250px;">
+
+
+ 
